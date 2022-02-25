@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Site Url Here](Live Site Url Here)
+- Live Site URL: [https://bnkaziz.github.io/loruki-hosting-website](https://bnkaziz.github.io/loruki-hosting-website)
 
 ## My process
 
